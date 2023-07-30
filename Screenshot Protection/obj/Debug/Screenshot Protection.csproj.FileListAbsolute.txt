@@ -1,0 +1,10 @@
+C:\Users\softw\OneDrive\Desktop\Screenshot Protection\Screenshot Protection\bin\Debug\Screenshot Protection.exe.config
+C:\Users\softw\OneDrive\Desktop\Screenshot Protection\Screenshot Protection\bin\Debug\Screenshot Protection.exe
+C:\Users\softw\OneDrive\Desktop\Screenshot Protection\Screenshot Protection\bin\Debug\Screenshot Protection.pdb
+C:\Users\softw\OneDrive\Desktop\Screenshot Protection\Screenshot Protection\obj\Debug\Screenshot Protection.csproj.AssemblyReference.cache
+C:\Users\softw\OneDrive\Desktop\Screenshot Protection\Screenshot Protection\obj\Debug\Screenshot_Protection.Form1.resources
+C:\Users\softw\OneDrive\Desktop\Screenshot Protection\Screenshot Protection\obj\Debug\Screenshot_Protection.Properties.Resources.resources
+C:\Users\softw\OneDrive\Desktop\Screenshot Protection\Screenshot Protection\obj\Debug\Screenshot Protection.csproj.GenerateResource.cache
+C:\Users\softw\OneDrive\Desktop\Screenshot Protection\Screenshot Protection\obj\Debug\Screenshot Protection.csproj.CoreCompileInputs.cache
+C:\Users\softw\OneDrive\Desktop\Screenshot Protection\Screenshot Protection\obj\Debug\Screenshot Protection.exe
+C:\Users\softw\OneDrive\Desktop\Screenshot Protection\Screenshot Protection\obj\Debug\Screenshot Protection.pdb
